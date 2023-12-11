@@ -26,6 +26,8 @@ By the way, there will be some related links and you're welcomed to add more! :s
 ## Course
 * [CS231n进阶课 | 深度学习与计算机视觉(课程)](https://www.bilibili.com/video/BV13P4y1t7gM/?t=11&spm_id_from=333.1350.jump_directly)
 * [Deep Learning for Computer Vision(课程)](https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/EECS498-007/)
+* [计算机视觉之三维重建(精简版)](https://www.bilibili.com/video/BV15f4y1v7pa/)
+* [计算机视觉之三维重建(完整版)](https://www.bilibili.com/video/BV1mT4y1o7Q2/?spm_id_from=333.788&vd_source=04499900d9e2f5fed9feaea999ac6cf4)
 
 ## Other
 * [计算机视觉数据集汇总](https://zhuanlan.zhihu.com/p/99680662)
