@@ -1,5 +1,5 @@
 # Resources
-Something maybe helpful for learners of **3D Reconstruction**.//
+Something maybe helpful for learners of **3D Reconstruction**.
 Due to the upload limitation, there're some books over 25mb that can't be shared.
 Therefore, you have to find it by yourself if you want to read them.
 
