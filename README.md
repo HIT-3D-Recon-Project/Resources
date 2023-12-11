@@ -11,7 +11,7 @@ Therefore, you have to find it by yourself if you want to read them.
 -----------------------------------
 By the way, there will be some related links and you're welcomed to add more! :smile:
 
-# Article
+## Article
 * [三维重建的学习路线](https://www.zhihu.com/question/279217836/answer/2925386519)
 * [神经网络为什么可以（理论上）拟合任何函数？](https://www.zhihu.com/question/268384579/answer/2995111320)
 * [吴恩达老师的机器学习和深度学习笔记](https://zhuanlan.zhihu.com/p/136194148)
@@ -23,11 +23,11 @@ By the way, there will be some related links and you're welcomed to add more! :s
 * [鸢尾花系列书籍(易懂的ML入门)](https://github.com/Visualize-ML)
 * [CV经典论文汇总](https://github.com/yizt/cv-papers/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BB%8F%E5%85%B8%E8%AE%BA%E6%96%87%E5%9C%B0%E5%9D%80%E6%B1%87%E6%80%BB.md)
 
-# Course
+## Course
 * [CS231n进阶课 | 深度学习与计算机视觉(课程)](https://www.bilibili.com/video/BV13P4y1t7gM/?t=11&spm_id_from=333.1350.jump_directly)
 * [Deep Learning for Computer Vision(课程)](https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/EECS498-007/)
 
-# Other
+## Other
 * [计算机视觉数据集汇总](https://zhuanlan.zhihu.com/p/99680662)
 * [从零实现Transformer](https://zhuanlan.zhihu.com/p/648127076)
 * [学习Python（入门|基础|进阶|实战）](https://zhuanlan.zhihu.com/p/421726412)
