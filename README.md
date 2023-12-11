@@ -32,6 +32,7 @@ By the way, there will be some related links and you're welcomed to add more! :s
 ## Other
 * [计算机视觉数据集汇总](https://zhuanlan.zhihu.com/p/99680662)
 * [GPT-4与CV](https://zhuanlan.zhihu.com/p/616966879)
+* [在CV界，传统卷积已经彻底输给Transformer了吗？](https://www.zhihu.com/question/531529633/answer/3284029493)
 * [从零实现Transformer](https://zhuanlan.zhihu.com/p/648127076)
 * [学习Python（入门|基础|进阶|实战）](https://zhuanlan.zhihu.com/p/421726412)
 * [学会Markdown基本语法](https://zhuanlan.zhihu.com/p/270716843)
