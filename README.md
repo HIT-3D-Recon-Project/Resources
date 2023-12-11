@@ -9,7 +9,7 @@ Therefore, you have to find it by yourself if you want to read them.
 * 之后补充
 
 -----------------------------------
-By the way, there will be some related links and you're welcomed to add more!:smile:
+By the way, there will be some related links and you're welcomed to add more! :smile:
 
 # Article
 * [三维重建的学习路线](https://www.zhihu.com/question/279217836/answer/2925386519)
