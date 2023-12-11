@@ -3,7 +3,7 @@ Something maybe helpful for learners of 3D Reconstruction.
 Due to the upload limitation, there're some books over 25mb that can't be shared.
 Therefore, you have to find it by yourself if you want to read them.
 
-* 机器学习西瓜书
+* 西瓜书
 * 机器学习的数学基础
 * 计算机视觉算法与应用
 * 之后补充
@@ -29,6 +29,7 @@ By the way, there will be some related links and you're welcomed to add more! :s
 
 ## Other
 * [计算机视觉数据集汇总](https://zhuanlan.zhihu.com/p/99680662)
+* [GPT-4与CV](https://zhuanlan.zhihu.com/p/616966879)
 * [从零实现Transformer](https://zhuanlan.zhihu.com/p/648127076)
 * [学习Python（入门|基础|进阶|实战）](https://zhuanlan.zhihu.com/p/421726412)
 * [学会Markdown基本语法](https://zhuanlan.zhihu.com/p/270716843)
