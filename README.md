@@ -32,6 +32,8 @@ By the way, there will be some related links and you're welcomed to add more! :s
   * [配套笔记](https://spite-triangle.github.io/artificial_intelligence/#/)
 
 ## Other
+* [三维重建相关软件框架](https://zhuanlan.zhihu.com/p/460559374)
+* [抄抄别人的](https://www.zhihu.com/question/341350546/answer/1230711957)
 * [计算机视觉数据集汇总](https://zhuanlan.zhihu.com/p/99680662)
 * [GPT-4与CV](https://zhuanlan.zhihu.com/p/616966879)
 * [在CV界，传统卷积已经彻底输给Transformer了吗？](https://www.zhihu.com/question/531529633/answer/3284029493)
