@@ -43,5 +43,5 @@ By the way, there will be some related links and you're welcomed to add more! :s
 * [入门 LaTeX](https://www.zhihu.com/question/62943097/answer/2507170664)
 * [书库(安娜的档案)](https://zh.annas-archive.org/)
 * [gpt-god:gpt4](https://gptgod.site/)
-* [phind:免费且程序员用的ai](www.phind.com)
+* [phind:免费且程序员用的ai(感觉像个爬资料的智能爬虫)](www.phind.com)
 
