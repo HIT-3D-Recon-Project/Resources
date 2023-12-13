@@ -42,4 +42,6 @@ By the way, there will be some related links and you're welcomed to add more! :s
 * [学会Markdown基本语法](https://zhuanlan.zhihu.com/p/270716843)
 * [入门 LaTeX](https://www.zhihu.com/question/62943097/answer/2507170664)
 * [书库(安娜的档案)](https://zh.annas-archive.org/)
+* [gpt-god:gpt4](https://gptgod.site/)
+* [phind:免费且程序员用的ai](www.phind.com)
 
