@@ -22,6 +22,11 @@ By the way, there will be some related links and you're welcomed to add more! :s
 * [Nerf与CV](https://zhuanlan.zhihu.com/p/559025481)
 * [鸢尾花系列书籍(易懂的ML入门)](https://github.com/Visualize-ML)
 * [CV经典论文汇总](https://github.com/yizt/cv-papers/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BB%8F%E5%85%B8%E8%AE%BA%E6%96%87%E5%9C%B0%E5%9D%80%E6%B1%87%E6%80%BB.md)
+* [循环神经网络RNN的基本原理](https://www.zhihu.com/pin/1709873046767333376)
+* [池化pooling](https://www.zhihu.com/pin/1710322600440348672)
+* [理解Transformer](https://www.zhihu.com/question/445556653/answer/3254012065)
+* [计算机视觉三维重建的几何基础：坐标系与关键矩阵（基础矩阵、本质矩阵、单应矩阵）](https://zhuanlan.zhihu.com/p/159194599)
+* [深度学习论文该如何不看作者或他人代码自主复现？](https://www.zhihu.com/question/618393440/answer/3195564408)
 
 ## Course
 * [CS231n进阶课 | 深度学习与计算机视觉(课程)](https://www.bilibili.com/video/BV13P4y1t7gM/?t=11&spm_id_from=333.1350.jump_directly)
