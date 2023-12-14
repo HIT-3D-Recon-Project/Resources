@@ -12,13 +12,13 @@ Therefore, you have to find it by yourself if you want to read them.
 By the way, there will be some related links and you're welcomed to add more! :smile:
 
 ## Article
-* [三维重建的学习路线](https://www.zhihu.com/question/279217836/answer/2925386519)
-* [神经网络为什么可以（理论上）拟合任何函数？](https://www.zhihu.com/question/268384579/answer/2995111320)
-* [吴恩达老师的机器学习和深度学习笔记](https://zhuanlan.zhihu.com/p/136194148)
+* [三维重建的学习路线(对三维重建给出了路线流程中的一种,具体还要深入学习)](https://www.zhihu.com/question/279217836/answer/2925386519)
+* [神经网络为什么可以（理论上）拟合任何函数？(非线性函数的叠加)](https://www.zhihu.com/question/268384579/answer/2995111320)
+* [吴恩达老师的机器学习和深度学习笔记(内容较多,尚未看,主要是这两门课的笔记,厚得像一本书了...)](https://zhuanlan.zhihu.com/p/136194148)
 * [如何自己从零实现一个神经网络?](https://www.zhihu.com/question/314879954/answer/2655433794)
 * [如何自己从零实现一个神经网络?(2)](https://www.zhihu.com/question/314879954/answer/638380202)
-* [深度学习与CV教程](https://www.showmeai.tech/article-detail/260)
-* [计算机视觉知识点总结()](https://zhuanlan.zhihu.com/p/58776542)
+* [深度学习与CV教程(cv课程笔记的索引页,但是是cs231n课程的笔记)](https://www.showmeai.tech/article-detail/260)
+* [计算机视觉知识点总结(cv知识的索引页)](https://zhuanlan.zhihu.com/p/58776542)
 * [Nerf与CV(前沿技术)](https://zhuanlan.zhihu.com/p/559025481)
 * [鸢尾花系列书籍(易懂的ML入门,比较基础)](https://github.com/Visualize-ML)
 * [CV经典论文汇总(github上的cv论文总结,索引页)](https://github.com/yizt/cv-papers/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BB%8F%E5%85%B8%E8%AE%BA%E6%96%87%E5%9C%B0%E5%9D%80%E6%B1%87%E6%80%BB.md)
