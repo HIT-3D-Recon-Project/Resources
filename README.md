@@ -41,7 +41,7 @@ By the way, there will be some related links and you're welcomed to add more! :s
 
 ## Video
 * [支持向量机-SVM](https://www.bilibili.com/video/BV1Xb4y1N7r5/?spm_id_from=333.999.0.0&vd_source=04499900d9e2f5fed9feaea999ac6cf4)
-* [三维重建常用软件工具(完全的工具链,如果采用这个方案可以基本简单三维建模，但配环境可能会让人抓狂)]
+* [三维重建常用软件工具(完全的工具链,如果采用这个方案可以基本简单三维建模，但配环境可能会让人抓狂)](https://www.bilibili.com/video/BV1F54y1T7m5/?spm_id_from=333.337.search-card.all.click&vd_source=04499900d9e2f5fed9feaea999ac6cf4)
 
 ## Other
 * [三维重建相关软件框架(解放双手,不用做底层)](https://zhuanlan.zhihu.com/p/460559374)
