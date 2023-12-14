@@ -29,6 +29,7 @@ By the way, there will be some related links and you're welcomed to add more! :s
 * [深度学习论文该如何不看作者或他人代码自主复现？](https://www.zhihu.com/question/618393440/answer/3195564408)
 * [张正友标定法](https://zhuanlan.zhihu.com/p/94244568?ivk_sa=1024320u)
 * [OpenMVG项目内容概述](https://zhuanlan.zhihu.com/p/480953569)
+* [深度学习代码解读](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
 ## Course
 * [CS231n进阶课 | 深度学习与计算机视觉(课程)](https://www.bilibili.com/video/BV13P4y1t7gM/?t=11&spm_id_from=333.1350.jump_directly)
@@ -37,6 +38,9 @@ By the way, there will be some related links and you're welcomed to add more! :s
 * [计算机视觉之三维重建(完整版)](https://www.bilibili.com/video/BV1mT4y1o7Q2/?spm_id_from=333.788&vd_source=04499900d9e2f5fed9feaea999ac6cf4)
 * [OpenCV从入门到实战](https://www.bilibili.com/video/BV1PV411774y/?spm_id_from=333.788.recommend_more_video.5&vd_source=04499900d9e2f5fed9feaea999ac6cf4)
   * [配套笔记](https://spite-triangle.github.io/artificial_intelligence/#/)
+
+## Video
+* [支持向量机-SVM](https://www.bilibili.com/video/BV1Xb4y1N7r5/?spm_id_from=333.999.0.0&vd_source=04499900d9e2f5fed9feaea999ac6cf4)
 
 ## Other
 * [三维重建相关软件框架](https://zhuanlan.zhihu.com/p/460559374)
