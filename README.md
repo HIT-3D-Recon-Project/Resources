@@ -28,6 +28,7 @@ By the way, there will be some related links and you're welcomed to add more! :s
 * [计算机视觉三维重建的几何基础：坐标系与关键矩阵（基础矩阵、本质矩阵、单应矩阵）](https://zhuanlan.zhihu.com/p/159194599)
 * [深度学习论文该如何不看作者或他人代码自主复现？](https://www.zhihu.com/question/618393440/answer/3195564408)
 * [张正友标定法](https://zhuanlan.zhihu.com/p/94244568?ivk_sa=1024320u)
+* [OpenMVG项目内容概述](https://zhuanlan.zhihu.com/p/480953569)
 
 ## Course
 * [CS231n进阶课 | 深度学习与计算机视觉(课程)](https://www.bilibili.com/video/BV13P4y1t7gM/?t=11&spm_id_from=333.1350.jump_directly)
