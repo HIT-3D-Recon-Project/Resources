@@ -38,13 +38,17 @@ By the way, there will be some related links and you're welcomed to add more! :s
 * [计算机视觉之三维重建(完整版)(cv课中的三维重建专项)](https://www.bilibili.com/video/BV1mT4y1o7Q2/?spm_id_from=333.788&vd_source=04499900d9e2f5fed9feaea999ac6cf4)
 * [OpenCV从入门到实战(一个CV视觉库,考虑要不要添加pytorch)](https://www.bilibili.com/video/BV1PV411774y/?spm_id_from=333.788.recommend_more_video.5&vd_source=04499900d9e2f5fed9feaea999ac6cf4)
   * [配套笔记](https://spite-triangle.github.io/artificial_intelligence/#/)
+* [Tensorflow2.0(同pytorch,也是跑神经网络的)](https://www.bilibili.com/video/BV1B7411L7Qt/?spm_id_from=333.337.search-card.all.click&vd_source=04499900d9e2f5fed9feaea999ac6cf4)
 
 ## Video
 * [支持向量机-SVM(机器学习中的一种方式,有点抽象,以后再补补)](https://www.bilibili.com/video/BV1Xb4y1N7r5/?spm_id_from=333.999.0.0&vd_source=04499900d9e2f5fed9feaea999ac6cf4)
 * [三维重建常用软件工具(完全的工具链,如果采用这个方案可以基本简单三维建模，但配环境可能会让人抓狂)](https://www.bilibili.com/video/BV1F54y1T7m5/?spm_id_from=333.337.search-card.all.click&vd_source=04499900d9e2f5fed9feaea999ac6cf4)
 
 ## Paper
-* [Connected Papers(找找论文)](https://www.connectedpapers.com/)
+* [Connected Papers(找找论文,有论文网图,比较形象)](https://www.connectedpapers.com/)
+* [谷歌学术(还好用,不过网站比较混乱)](https://scholar.google.com.hk/?hl=zh-CN)
+* [中国知网(勉强能用吧( )](https://www.cnki.net/)
+* [文献资料的中外全球电子数据库(论文库索引页)](https://www.cwauthors.com.cn/article/e-database)
 
 ## Other
 * [三维重建相关软件框架(解放双手,不用做底层)](https://zhuanlan.zhihu.com/p/460559374)
