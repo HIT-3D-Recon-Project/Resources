@@ -30,7 +30,7 @@ By the way, there will be some related links and you're welcomed to add more! :s
 * [张正友标定法(调摄影机参数时用到的方法,棋盘大师)](https://zhuanlan.zhihu.com/p/94244568?ivk_sa=1024320u)
 * [OpenMVG项目内容概述(一个cv三维重建的处理库)](https://zhuanlan.zhihu.com/p/480953569)
 * [深度学习代码解读(github上的开源项目,逐行解读深度学习代码)](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
-* [xxx](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+
 
 ## Course
 * [CS231n进阶课 | 深度学习与计算机视觉(课程)(比较底层的原理讲述,进阶可用)](https://www.bilibili.com/video/BV13P4y1t7gM/?t=11&spm_id_from=333.1350.jump_directly)
