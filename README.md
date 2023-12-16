@@ -65,3 +65,13 @@ By the way, there will be some related links and you're welcomed to add more! :s
 * [gpt-god:gpt4(比较好用且性价比高,不建议用3.5,一个简单的数论题都做不出来--)](https://gptgod.site/)
 * [phind:免费且程序员用的ai(感觉像个爬资料的智能爬虫)](www.phind.com)
 
+## Github Begin
+> 找资料的小技巧：
+  找百科大全    awesome xxx
+  找例子        xxx sample
+  找空项目架子  xxx starter / xxx boilerplate 
+  找教程        xxx tutorial
+  比如要找与cv相关的资料，可以搜索awesome cv
+
+* [热门推荐](https://github.com/trending/)
+* [期刊](https://github.com/521xueweihan/HelloGitHub)
