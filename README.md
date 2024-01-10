@@ -11,7 +11,7 @@ Therefore, you have to find it by yourself if you want to read them.
 -----------------------------------
 By the way, there will be some related links and you're welcomed to add more! :smile:
 
-## Article
+## Articles
 * [三维重建的学习路线(对三维重建给出了路线流程中的一种,具体还要深入学习)](https://www.zhihu.com/question/279217836/answer/2925386519)
 * [神经网络为什么可以（理论上）拟合任何函数？(非线性函数的叠加)](https://www.zhihu.com/question/268384579/answer/2995111320)
 * [吴恩达老师的机器学习和深度学习笔记(内容较多,尚未看,主要是这两门课的笔记,厚得像一本书了...)](https://zhuanlan.zhihu.com/p/136194148)
@@ -32,7 +32,7 @@ By the way, there will be some related links and you're welcomed to add more! :s
 * [深度学习代码解读(github上的开源项目,逐行解读深度学习代码)](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
 
-## Course
+## Courses
 * [CS231n进阶课 | 深度学习与计算机视觉(课程)(比较底层的原理讲述,进阶可用)](https://www.bilibili.com/video/BV13P4y1t7gM/?t=11&spm_id_from=333.1350.jump_directly)
 * [Deep Learning for Computer Vision(课程)(同上)](https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/EECS498-007/)
 * [计算机视觉之三维重建(精简版)(省时专用)](https://www.bilibili.com/video/BV15f4y1v7pa/)
@@ -41,17 +41,18 @@ By the way, there will be some related links and you're welcomed to add more! :s
   * [配套笔记](https://spite-triangle.github.io/artificial_intelligence/#/)
 * [Tensorflow2.0(同pytorch,也是跑神经网络的)](https://www.bilibili.com/video/BV1B7411L7Qt/?spm_id_from=333.337.search-card.all.click&vd_source=04499900d9e2f5fed9feaea999ac6cf4)
 
-## Video
+## Videos
 * [支持向量机-SVM(机器学习中的一种方式,有点抽象,以后再补补)](https://www.bilibili.com/video/BV1Xb4y1N7r5/?spm_id_from=333.999.0.0&vd_source=04499900d9e2f5fed9feaea999ac6cf4)
 * [三维重建常用软件工具(完全的工具链,如果采用这个方案可以基本简单三维建模，但配环境可能会让人抓狂)](https://www.bilibili.com/video/BV1F54y1T7m5/?spm_id_from=333.337.search-card.all.click&vd_source=04499900d9e2f5fed9feaea999ac6cf4)
 
-## Paper
+## Papers
 * [Connected Papers(找找论文,有论文网图,比较形象)](https://www.connectedpapers.com/)
 * [谷歌学术(还好用,不过网站比较混乱)](https://scholar.google.com.hk/?hl=zh-CN)
 * [中国知网(勉强能用吧( )](https://www.cnki.net/)
 * [文献资料的中外全球电子数据库(论文库索引页)](https://www.cwauthors.com.cn/article/e-database)
 
 ## Other
+* [和我们项目**高度重合**的项目](https://github.com/SoulBasic/J3DReconstruction)
 * [三维重建相关软件框架(解放双手,不用做底层)](https://zhuanlan.zhihu.com/p/460559374)
 * [抄抄别人的(三维重建可以用到的一些外部工具或库，可以参考Video的第二个)](https://www.zhihu.com/question/341350546/answer/1230711957)
 * [计算机视觉数据集汇总(训练cv网络的资料)](https://zhuanlan.zhihu.com/p/99680662)
