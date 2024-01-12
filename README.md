@@ -1,15 +1,15 @@
 # Resources
-You want to work less, so you learn more about open source libraries.
-**Official**
-    [OpenMVG:download and tutorial](https://github.com/openMVG/openMVG)
-    [OpenMVG ~documentation~](https://openmvg.readthedocs.io/en/latest/openMVG/openMVG/)
-**Build**
-    [安装最好命令行，不觉得很高端吗？](https://www.twblogs.net/a/5bde2dd82b717720b51b984f)
-    [软件编译倒也还不错](https://blog.csdn.net/u012512679/article/details/53116641)
-    [确确实实装不明白那就只能vcpkg了](https://blog.csdn.net/weixin_45245063/article/details/115123640)
-**Use**
-    [OpenMVG上手系列文章](https://www.zhihu.com/column/c_1520545571056611328)
-You have to **Use** it before you can **Read** it and **Reproduce** it.
+You want to work less, so you learn more about open source libraries.<br />
+**Official**<br />
+    [OpenMVG:download and tutorial](https://github.com/openMVG/openMVG)<br />
+    [OpenMVG \~documentation\~](https://openmvg.readthedocs.io/en/latest/openMVG/openMVG/)<br />
+**Build**<br />
+    [安装最好用命令行.不觉得很高端吗？](https://www.twblogs.net/a/5bde2dd82b717720b51b984f)<br />
+    [软件编译倒也还不错](https://blog.csdn.net/u012512679/article/details/53116641)<br />
+    [确确实实装不明白那就只能vcpkg了](https://blog.csdn.net/weixin_45245063/article/details/115123640)<br />
+**Use**<br />
+    [OpenMVG上手系列文章](https://www.zhihu.com/column/c_1520545571056611328)<br />
+You have to **Use** it before you can **Read** it and **Reproduce** it.<br />
 
 -----------------------------------
 Something maybe helpful for learners of **3D Reconstruction**.
