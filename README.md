@@ -1,4 +1,17 @@
 # Resources
+You want to work less, so you learn more about open source libraries.
+**Official**
+    [OpenMVG:download and tutorial](https://github.com/openMVG/openMVG)
+    [OpenMVG ~documentation~](https://openmvg.readthedocs.io/en/latest/openMVG/openMVG/)
+**Build**
+    [安装最好命令行，不觉得很高端吗？](https://www.twblogs.net/a/5bde2dd82b717720b51b984f)
+    [软件编译倒也还不错](https://blog.csdn.net/u012512679/article/details/53116641)
+    [确确实实装不明白那就只能vcpkg了](https://blog.csdn.net/weixin_45245063/article/details/115123640)
+**Use**
+    [OpenMVG上手系列文章](https://www.zhihu.com/column/c_1520545571056611328)
+You have to **Use** it before you can **Read** it and **Reproduce** it.
+
+-----------------------------------
 Something maybe helpful for learners of **3D Reconstruction**.
 Due to the upload limitation, there're some books over 25mb that can't be shared.
 Therefore, you have to find it by yourself if you want to read them.
@@ -30,6 +43,7 @@ By the way, there will be some related links and you're welcomed to add more! :s
 * [张正友标定法(调摄影机参数时用到的方法,棋盘大师)](https://zhuanlan.zhihu.com/p/94244568?ivk_sa=1024320u)
 * [OpenMVG项目内容概述(一个cv三维重建的处理库)](https://zhuanlan.zhihu.com/p/480953569)
 * [深度学习代码解读(github上的开源项目,逐行解读深度学习代码)](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+* [一个工程示例，展示调库实现有多方便](https://cloud.tencent.com/developer/article/1756200)
 
 
 ## Courses
