@@ -8,6 +8,7 @@ You want to work less, so you learn more about open source libraries.<br />
     [软件编译倒也还不错](https://blog.csdn.net/u012512679/article/details/53116641)<br />
     [确确实实装不明白那就只能vcpkg了](https://blog.csdn.net/weixin_45245063/article/details/115123640)<br />
 **Use**<br />
+    [理解它!使用它!](https://github.com/Mitomzhou/openMVG-Analysis)<br />
     [OpenMVG上手系列文章](https://www.zhihu.com/column/c_1520545571056611328)<br />
 You have to **Use** it before you can **Read** it and **Reproduce** it.<br />
 
